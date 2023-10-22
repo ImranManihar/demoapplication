@@ -8,7 +8,7 @@ public class Process {
 		System.out.println(new Date());
 		System.out.println("Hii");
 		System.out.println("Added one more file");
-		System.out.println("Added two files");
+		
 
 	}
 
